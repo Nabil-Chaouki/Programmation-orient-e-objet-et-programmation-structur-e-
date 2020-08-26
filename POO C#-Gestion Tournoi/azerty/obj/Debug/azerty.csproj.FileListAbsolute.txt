@@ -1,0 +1,30 @@
+C:\Users\USER\Desktop\azerty\azerty\bin\Debug\azerty.exe.config
+C:\Users\USER\Desktop\azerty\azerty\obj\Debug\azerty.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\azerty\azerty\bin\Debug\azerty.exe
+C:\Users\USER\Desktop\azerty\azerty\bin\Debug\azerty.pdb
+C:\Users\USER\Desktop\azerty\azerty\obj\Debug\azerty.exe
+C:\Users\USER\Desktop\azerty\azerty\obj\Debug\azerty.pdb
+C:\Users\USER\Desktop\li ando xi khedma hahia\azerty\azerty\bin\Debug\azerty.exe.config
+C:\Users\USER\Desktop\li ando xi khedma hahia\azerty\azerty\obj\Debug\azerty.exe
+C:\Users\USER\Desktop\li ando xi khedma hahia\azerty\azerty\obj\Debug\azerty.pdb
+C:\Users\USER\Desktop\li ando xi khedma hahia\azerty\azerty\obj\Debug\azerty.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\li ando xi khedma hahia\azerty\azerty\bin\Debug\azerty.exe
+C:\Users\USER\Desktop\li ando xi khedma hahia\azerty\azerty\bin\Debug\azerty.pdb
+C:\Users\gh0st\Desktop\azerty\azerty\bin\Debug\azerty.exe.config
+C:\Users\gh0st\Desktop\azerty\azerty\obj\Debug\azerty.exe
+C:\Users\gh0st\Desktop\azerty\azerty\obj\Debug\azerty.pdb
+C:\Users\gh0st\Desktop\azerty\azerty\obj\Debug\azerty.csprojResolveAssemblyReference.cache
+C:\Users\gh0st\Desktop\azerty\azerty\bin\Debug\azerty.exe
+C:\Users\gh0st\Desktop\azerty\azerty\bin\Debug\azerty.pdb
+F:\nabil\bureau\Projet CSharp\azerty\azerty\bin\Debug\azerty.exe.config
+F:\nabil\bureau\Projet CSharp\azerty\azerty\obj\Debug\azerty.exe
+F:\nabil\bureau\Projet CSharp\azerty\azerty\obj\Debug\azerty.pdb
+F:\nabil\bureau\Projet CSharp\azerty\azerty\bin\Debug\azerty.exe
+F:\nabil\bureau\Projet CSharp\azerty\azerty\bin\Debug\azerty.pdb
+F:\nabil\bureau\Projet CSharp\azerty\azerty\obj\Debug\azerty.csprojResolveAssemblyReference.cache
+D:\Drive\nabil\bureau\Projet CSharp\azerty\azerty\bin\Debug\azerty.exe.config
+D:\Drive\nabil\bureau\Projet CSharp\azerty\azerty\bin\Debug\azerty.exe
+D:\Drive\nabil\bureau\Projet CSharp\azerty\azerty\bin\Debug\azerty.pdb
+D:\Drive\nabil\bureau\Projet CSharp\azerty\azerty\obj\Debug\azerty.csprojAssemblyReference.cache
+D:\Drive\nabil\bureau\Projet CSharp\azerty\azerty\obj\Debug\azerty.exe
+D:\Drive\nabil\bureau\Projet CSharp\azerty\azerty\obj\Debug\azerty.pdb
