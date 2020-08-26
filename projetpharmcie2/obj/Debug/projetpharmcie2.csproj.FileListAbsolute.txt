@@ -1,0 +1,59 @@
+c:\users\gh0st\documents\visual studio 2012\Projects\projetpharmcie2\projetpharmcie2\obj\Debug\projetpharmcie2.csprojResolveAssemblyReference.cache
+c:\users\gh0st\documents\visual studio 2012\Projects\projetpharmcie2\projetpharmcie2\obj\Debug\projetpharmcie2.Form1.resources
+c:\users\gh0st\documents\visual studio 2012\Projects\projetpharmcie2\projetpharmcie2\obj\Debug\projetpharmcie2.Properties.Resources.resources
+c:\users\gh0st\documents\visual studio 2012\Projects\projetpharmcie2\projetpharmcie2\obj\Debug\projetpharmcie2.csproj.GenerateResource.Cache
+c:\users\gh0st\documents\visual studio 2012\Projects\projetpharmcie2\projetpharmcie2\bin\Debug\projetpharmcie2.exe
+c:\users\gh0st\documents\visual studio 2012\Projects\projetpharmcie2\projetpharmcie2\bin\Debug\projetpharmcie2.pdb
+c:\users\gh0st\documents\visual studio 2012\Projects\projetpharmcie2\projetpharmcie2\obj\Debug\projetpharmcie2.exe
+c:\users\gh0st\documents\visual studio 2012\Projects\projetpharmcie2\projetpharmcie2\obj\Debug\projetpharmcie2.pdb
+c:\users\gh0st\documents\visual studio 2012\Projects\projetpharmcie2\projetpharmcie2\obj\Debug\projetpharmcie2.Form2.resources
+c:\users\gh0st\documents\visual studio 2012\Projects\projetpharmcie2\projetpharmcie2\obj\Debug\projetpharmcie2.Form3.resources
+c:\users\gh0st\documents\visual studio 2012\Projects\projetpharmcie2\projetpharmcie2\obj\Debug\projetpharmcie2.Form5.resources
+C:\Users\Pc\Desktop\nohom\projetpharmcie2\obj\Debug\projetpharmcie2.exe
+C:\Users\Pc\Desktop\nohom\projetpharmcie2\obj\Debug\projetpharmcie2.pdb
+C:\Users\Pc\Desktop\nohom\projetpharmcie2\bin\Debug\projetpharmcie2.exe
+C:\Users\Pc\Desktop\nohom\projetpharmcie2\bin\Debug\projetpharmcie2.pdb
+C:\Users\Pc\Desktop\nohom\projetpharmcie2\obj\Debug\projetpharmcie2.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\nohom\projetpharmcie2\obj\Debug\projetpharmcie2.Form1.resources
+C:\Users\Pc\Desktop\nohom\projetpharmcie2\obj\Debug\projetpharmcie2.Form2.resources
+C:\Users\Pc\Desktop\nohom\projetpharmcie2\obj\Debug\projetpharmcie2.Form3.resources
+C:\Users\Pc\Desktop\nohom\projetpharmcie2\obj\Debug\projetpharmcie2.Form5.resources
+C:\Users\Pc\Desktop\nohom\projetpharmcie2\obj\Debug\projetpharmcie2.Properties.Resources.resources
+C:\Users\Pc\Desktop\nohom\projetpharmcie2\obj\Debug\projetpharmcie2.csproj.GenerateResource.Cache
+C:\Users\Pc\Desktop\nohom\projetpharmcie2\obj\Debug\projetpharmcie2.Form4.resources
+C:\Users\gh0st\Documents\projetpharmcie2\obj\Debug\projetpharmcie2.exe
+C:\Users\gh0st\Documents\projetpharmcie2\obj\Debug\projetpharmcie2.pdb
+C:\Users\gh0st\Documents\projetpharmcie2\bin\Debug\projetpharmcie2.exe
+C:\Users\gh0st\Documents\projetpharmcie2\bin\Debug\projetpharmcie2.pdb
+C:\Users\gh0st\Documents\projetpharmcie2\obj\Debug\projetpharmcie2.csprojResolveAssemblyReference.cache
+C:\Users\gh0st\Documents\projetpharmcie2\obj\Debug\projetpharmcie2.Form1.resources
+C:\Users\gh0st\Documents\projetpharmcie2\obj\Debug\projetpharmcie2.Form2.resources
+C:\Users\gh0st\Documents\projetpharmcie2\obj\Debug\projetpharmcie2.Form3.resources
+C:\Users\gh0st\Documents\projetpharmcie2\obj\Debug\projetpharmcie2.Form4.resources
+C:\Users\gh0st\Documents\projetpharmcie2\obj\Debug\projetpharmcie2.Form5.resources
+C:\Users\gh0st\Documents\projetpharmcie2\obj\Debug\projetpharmcie2.Properties.Resources.resources
+C:\Users\gh0st\Documents\projetpharmcie2\obj\Debug\projetpharmcie2.csproj.GenerateResource.Cache
+F:\projetpharmcie2\obj\Debug\projetpharmcie2.exe
+F:\projetpharmcie2\obj\Debug\projetpharmcie2.pdb
+F:\projetpharmcie2\bin\Debug\projetpharmcie2.exe
+F:\projetpharmcie2\bin\Debug\projetpharmcie2.pdb
+F:\projetpharmcie2\obj\Debug\projetpharmcie2.csprojResolveAssemblyReference.cache
+F:\projetpharmcie2\obj\Debug\projetpharmcie2.Form1.resources
+F:\projetpharmcie2\obj\Debug\projetpharmcie2.Form2.resources
+F:\projetpharmcie2\obj\Debug\projetpharmcie2.Form3.resources
+F:\projetpharmcie2\obj\Debug\projetpharmcie2.Form4.resources
+F:\projetpharmcie2\obj\Debug\projetpharmcie2.Form5.resources
+F:\projetpharmcie2\obj\Debug\projetpharmcie2.Properties.Resources.resources
+F:\projetpharmcie2\obj\Debug\projetpharmcie2.csproj.GenerateResource.Cache
+C:\Users\gh0st\Desktop\projetpharmcie2\obj\Debug\projetpharmcie2.exe
+C:\Users\gh0st\Desktop\projetpharmcie2\obj\Debug\projetpharmcie2.pdb
+C:\Users\gh0st\Desktop\projetpharmcie2\bin\Debug\projetpharmcie2.exe
+C:\Users\gh0st\Desktop\projetpharmcie2\bin\Debug\projetpharmcie2.pdb
+C:\Users\gh0st\Desktop\projetpharmcie2\obj\Debug\projetpharmcie2.csprojResolveAssemblyReference.cache
+C:\Users\gh0st\Desktop\projetpharmcie2\obj\Debug\projetpharmcie2.Form1.resources
+C:\Users\gh0st\Desktop\projetpharmcie2\obj\Debug\projetpharmcie2.Form2.resources
+C:\Users\gh0st\Desktop\projetpharmcie2\obj\Debug\projetpharmcie2.Form3.resources
+C:\Users\gh0st\Desktop\projetpharmcie2\obj\Debug\projetpharmcie2.Form4.resources
+C:\Users\gh0st\Desktop\projetpharmcie2\obj\Debug\projetpharmcie2.Form5.resources
+C:\Users\gh0st\Desktop\projetpharmcie2\obj\Debug\projetpharmcie2.Properties.Resources.resources
+C:\Users\gh0st\Desktop\projetpharmcie2\obj\Debug\projetpharmcie2.csproj.GenerateResource.Cache

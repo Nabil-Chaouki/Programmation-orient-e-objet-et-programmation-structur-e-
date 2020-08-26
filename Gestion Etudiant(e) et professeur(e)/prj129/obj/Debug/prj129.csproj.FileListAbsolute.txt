@@ -1,0 +1,18 @@
+C:\Users\USER\Documents\Visual Studio 2012\Projects\prj129\prj129\bin\Debug\prj129.exe.config
+C:\Users\USER\Documents\Visual Studio 2012\Projects\prj129\prj129\bin\Debug\prj129.exe
+C:\Users\USER\Documents\Visual Studio 2012\Projects\prj129\prj129\bin\Debug\prj129.pdb
+C:\Users\USER\Documents\Visual Studio 2012\Projects\prj129\prj129\obj\Debug\prj129.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2012\Projects\prj129\prj129\obj\Debug\prj129.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2012\Projects\prj129\prj129\obj\Debug\prj129.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2012\Projects\prj129\prj129\obj\Debug\prj129.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2012\Projects\prj129\prj129\obj\Debug\prj129.exe
+C:\Users\USER\Documents\Visual Studio 2012\Projects\prj129\prj129\obj\Debug\prj129.pdb
+D:\Drive\nabil\bureau\Projet CSharp\prj129\prj129\bin\Debug\prj129.exe.config
+D:\Drive\nabil\bureau\Projet CSharp\prj129\prj129\bin\Debug\prj129.exe
+D:\Drive\nabil\bureau\Projet CSharp\prj129\prj129\bin\Debug\prj129.pdb
+D:\Drive\nabil\bureau\Projet CSharp\prj129\prj129\obj\Debug\prj129.csprojAssemblyReference.cache
+D:\Drive\nabil\bureau\Projet CSharp\prj129\prj129\obj\Debug\prj129.Form1.resources
+D:\Drive\nabil\bureau\Projet CSharp\prj129\prj129\obj\Debug\prj129.Properties.Resources.resources
+D:\Drive\nabil\bureau\Projet CSharp\prj129\prj129\obj\Debug\prj129.csproj.GenerateResource.cache
+D:\Drive\nabil\bureau\Projet CSharp\prj129\prj129\obj\Debug\prj129.exe
+D:\Drive\nabil\bureau\Projet CSharp\prj129\prj129\obj\Debug\prj129.pdb

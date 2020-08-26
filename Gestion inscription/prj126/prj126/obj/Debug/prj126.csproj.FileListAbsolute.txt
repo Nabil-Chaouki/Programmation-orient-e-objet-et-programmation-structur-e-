@@ -1,0 +1,33 @@
+C:\Users\Waynil\Desktop\c# projects\prj126\prj126\bin\Debug\prj126.exe.config
+C:\Users\Waynil\Desktop\c# projects\prj126\prj126\bin\Debug\prj126.exe
+C:\Users\Waynil\Desktop\c# projects\prj126\prj126\bin\Debug\prj126.pdb
+C:\Users\Waynil\Desktop\c# projects\prj126\prj126\obj\Debug\prj126.csprojResolveAssemblyReference.cache
+C:\Users\Waynil\Desktop\c# projects\prj126\prj126\obj\Debug\prj126.Form1.resources
+C:\Users\Waynil\Desktop\c# projects\prj126\prj126\obj\Debug\prj126.Properties.Resources.resources
+C:\Users\Waynil\Desktop\c# projects\prj126\prj126\obj\Debug\prj126.csproj.GenerateResource.Cache
+C:\Users\Waynil\Desktop\c# projects\prj126\prj126\obj\Debug\prj126.csproj.CoreCompileInputs.cache
+C:\Users\Waynil\Desktop\c# projects\prj126\prj126\obj\Debug\prj126.exe
+C:\Users\Waynil\Desktop\c# projects\prj126\prj126\obj\Debug\prj126.pdb
+C:\Users\USER\Documents\Visual Studio 2012\Projects\prj126\prj126\bin\Debug\prj126.exe.config
+C:\Users\USER\Documents\Visual Studio 2012\Projects\prj126\prj126\obj\Debug\prj126.exe
+C:\Users\USER\Documents\Visual Studio 2012\Projects\prj126\prj126\obj\Debug\prj126.pdb
+C:\Users\USER\Documents\Visual Studio 2012\Projects\prj126\prj126\obj\Debug\prj126.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2012\Projects\prj126\prj126\obj\Debug\prj126.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2012\Projects\prj126\prj126\obj\Debug\prj126.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2012\Projects\prj126\prj126\obj\Debug\prj126.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2012\Projects\prj126\prj126\bin\Debug\prj126.exe
+C:\Users\USER\Documents\Visual Studio 2012\Projects\prj126\prj126\bin\Debug\prj126.pdb
+C:\Users\USER\Documents\Visual Studio 2012\Projects\prj126\prj126\bin\Debug\System.Net.Http.dll
+C:\Users\USER\Documents\Visual Studio 2012\Projects\prj126\prj126\bin\Debug\System.Net.Http.xml
+C:\Users\USER\Documents\Visual Studio 2012\Projects\prj126\prj126\bin\Debug\fr\System.Net.Http.resources.dll
+C:\Users\USER\Documents\Visual Studio 2012\Projects\prj126\prj126\obj\Debug\prj126.Form2.resources
+D:\Drive\nabil\bureau\Projet CSharp\prj126\prj126\bin\Debug\prj126.exe.config
+D:\Drive\nabil\bureau\Projet CSharp\prj126\prj126\bin\Debug\prj126.exe
+D:\Drive\nabil\bureau\Projet CSharp\prj126\prj126\bin\Debug\prj126.pdb
+D:\Drive\nabil\bureau\Projet CSharp\prj126\prj126\obj\Debug\prj126.csprojAssemblyReference.cache
+D:\Drive\nabil\bureau\Projet CSharp\prj126\prj126\obj\Debug\prj126.Form1.resources
+D:\Drive\nabil\bureau\Projet CSharp\prj126\prj126\obj\Debug\prj126.Form2.resources
+D:\Drive\nabil\bureau\Projet CSharp\prj126\prj126\obj\Debug\prj126.Properties.Resources.resources
+D:\Drive\nabil\bureau\Projet CSharp\prj126\prj126\obj\Debug\prj126.csproj.GenerateResource.cache
+D:\Drive\nabil\bureau\Projet CSharp\prj126\prj126\obj\Debug\prj126.exe
+D:\Drive\nabil\bureau\Projet CSharp\prj126\prj126\obj\Debug\prj126.pdb
